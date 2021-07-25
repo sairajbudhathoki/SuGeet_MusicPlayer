@@ -7,3 +7,5 @@ A simple music player that ask you for your storage permission and reads the mus
 Playing some music
 
 ![](demo2.jpg)
+
+![](demo1.jpg)
